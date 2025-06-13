@@ -35,8 +35,6 @@ The goal is to predict the next 10 values in a sequence based on a sliding windo
 - Matplotlib
 
 Install dependencies with:
-
-```bash
 pip install tensorflow numpy matplotlib
 
 ---
@@ -44,8 +42,6 @@ pip install tensorflow numpy matplotlib
 ### Running the Code
 
 To train the model and generate forecasts, run:
-
-```bash
 python univariate_lstm.py
 
 ---
