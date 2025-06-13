@@ -47,9 +47,10 @@ python univariate_lstm.py
 ---
 
 ### Output
+```
 0 day input [196. 210. 223.7]
 0 day output [[234.1]]
 1 day input [210. 223.7 234.1]
 1 day output [[245.6]]
-...
+...```
 
